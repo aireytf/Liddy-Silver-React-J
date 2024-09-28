@@ -32,6 +32,16 @@
   src: url("./assets/font/BaskervilleRegular/baskerville-regular.ttf");
 }
 
+@font-face {
+  font-family: "font-baskerville-true";
+  src: url("./assets/font/TrueBaskervilleRegular/True-Baskerville-Regular.otf");
+}
+
+@font-face {
+  font-family: "font-baskerville-light";
+  src: url("./assets/font/BaskervilleLight/Baskerville-Light.ttf");
+}
+
 .navbar {
   z-index: 9999999999;
 }
@@ -101,7 +111,7 @@
   text-shadow: 2.5px 2.5px 0 #2a3a4e;
 }
 .about .about-content p {
-  font-family: "font-baskerville";
+  font-family: "font-baskerville-light";
   color: #2a3a4e;
   font-weight: 100;
   margin: 0;
