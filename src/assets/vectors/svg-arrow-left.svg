@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 330 179" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-54,-614.123)">
+        <g id="arrow-right" transform="matrix(0.408537,0,0,0.408537,490.346,268.228)">
+            <g id="svg-arrow.svg" transform="matrix(-2.44776,2.99764e-16,-2.99764e-16,-2.44776,-664.19,1065.74)">
+                <g transform="matrix(1,0,0,1,-165,-89.5)">
+                    <clipPath id="_clip1">
+                        <rect x="0" y="0" width="330" height="179"/>
+                    </clipPath>
+                    <g clip-path="url(#_clip1)">
+                        <g id="arrow-right1" serif:id="arrow-right" transform="matrix(0.408537,0,0,0.408537,146.911,-15.381)">
+                            <g>
+                                <g>
+                                    <g transform="matrix(2.44776,0,0,2.44776,-1200.25,-656.558)">
+                                        <path d="M531.627,356.472L617.564,356.472L568.335,309.572C564.332,305.772 564.25,299.44 568.172,295.559L577.242,286.489C581.082,282.649 587.292,282.649 591.091,286.489L670.51,365.868C674.351,369.708 674.351,375.918 670.51,379.717L591.091,459.137C587.251,462.977 581.041,462.977 577.242,459.137L568.172,450.067C564.291,446.186 564.373,439.854 568.335,436.055L617.564,389.155L531.627,389.155L531.627,356.472Z"/>
+                                    </g>
+                                    <g transform="matrix(3.07961,0,0,2.44776,-1436.38,-656.251)">
+                                        <path d="M506.797,356.416L506.797,389.099L356.142,389.099C352.558,389.099 349.648,385.438 349.648,380.928L349.648,364.587C349.648,360.077 352.558,356.416 356.142,356.416L506.797,356.416Z"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

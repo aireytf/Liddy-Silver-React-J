@@ -1,0 +1,116 @@
+.Kensington-content h1 {
+  color: #5e6b55;
+  font-family: "font-light";
+  font-weight: bold;
+  text-shadow: -1px 1px 1px black;
+}
+
+.villa-content p {
+  text-transform: uppercase;
+  font-family: "font-baskerville";
+  color: #2a3a4e;
+  font-weight: 100;
+}
+
+.Kensington-content p {
+  text-transform: uppercase;
+  font-family: "font-baskerville";
+  color: #2a3a4e;
+  font-weight: 100;
+}
+
+.swiper-button-disabled img,
+.swiper-button-disabled i {
+  visibility: collapse !important;
+  display: hide !important;
+  cursor: hide;
+}
+
+.slide-image {
+}
+
+.custom {
+  margin-top: auto;
+  margin-bottom: auto;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.villa-content .villa-image-div {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.villa-content .villa-image-div img {
+  height: 100%;
+  width: auto;
+  object-fit: cover;
+}
+
+.custom img {
+  width: 100%;
+  height: auto;
+  max-height: 400px;
+}
+@media (max-width: 1200px) and (min-width: 992px) {
+  .custom {
+    padding: 7rem 0 5rem 0;
+  }
+  .custom img {
+    height: 400px;
+    width: 100%;
+  }
+
+  .villa-content,
+  .Kensington-content {
+    font-size: 13.2px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .custom img {
+    height: 400px;
+    width: 100%;
+  }
+  .villa-heading {
+    font-size: 1.6rem;
+    margin: 0px !important;
+    padding: 0px !important;
+  }
+  .custom {
+    padding: 7rem 0 5rem 0;
+    height: auto;
+  }
+}
+@media (max-width: 1440px) and (min-width: 1200px) {
+  .villa-heading {
+    font-size: 2rem;
+    margin: 0px;
+    padding: 0px;
+  }
+}
+
+@media screen and (min-width: 2500px) {
+  .custom img {
+    min-height: 800px !important;
+  }
+  .villa-content,
+  .Kensington-content {
+    font-size: 26px;
+  }
+}
+
+.swiper-slide {
+  opacity: 0 !important; /* Hide all slides by default */
+  transition: opacity 0.5s ease-in-out !important; /* Smooth transition */
+}
+
+.swiper-slide.swiper-slide-active {
+  opacity: 1 !important; /* Show only the active slide */
+}
