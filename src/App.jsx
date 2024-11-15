@@ -7,6 +7,7 @@ import Project3 from "./pages/Project3";
 import Contact from "./pages/Contact";
 
 const App = () => {
+
   return (
     <BrowserRouter>
       <Routes>
